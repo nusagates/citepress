@@ -41,8 +41,8 @@ Currently the shortcode works best inside standard posts. Support for CPTs can b
 
 == Screenshots ==
 
-1. Frontend citation box output
-2. Admin settings panel with options
+1. Admin settings panel with options
+2. Frontend citation box output
 
 == Changelog ==
 
