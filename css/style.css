@@ -1,0 +1,17 @@
+.citepress-box {
+    border: 1px solid #ccc;
+    margin: 2em 0;
+    font-family: Georgia, serif;
+    font-size: 16px;
+}
+.citepress-box-heading {
+    background: #f9f9f9;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ccc;
+}
+.citepress-box-body {
+    padding: 15px;
+}
+.align-top {
+    vertical-align: top;
+}
